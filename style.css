@@ -112,7 +112,7 @@
     background-color: darkslategray;
     color: white;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
     
 }
 
@@ -154,7 +154,7 @@
 
 /* Content */
 .content {
-    background-color: white;
+    background-color: gray;
     padding: 10px;
     text-align: center;
 }
