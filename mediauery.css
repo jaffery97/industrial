@@ -5,6 +5,17 @@
     
     .mobilemenu {display: block;
     padding: 10px;}
+    
+    .dropdown .dropbtn {
+        font-size: 12px; }
+    
+    .dropdown-content {
+        width: 94.4%;
+    }
+    
+    .navbar a {
+    
+    font-size: 12px;
 }
 
 @media only screen and (min-width:800px){
